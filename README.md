@@ -36,5 +36,5 @@ A first implementation of Almazen will provide
 only the Python API and the DB. Source code for
 these components can be found in these repos:
 
-* MySQL [database](github.com/samueloquien/almazen-db).
-* Python [API](github.com/samueloquien/almazen-api).
+* MySQL [database](https://github.com/samueloquien/almazen-db).
+* Python [API](https://github.com/samueloquien/almazen-api).
